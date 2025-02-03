@@ -95,7 +95,7 @@ const App = () => {
             path="/favorites"
             element={<FavoriteList favorites={favorites} onToggleFavorite={toggleFavorite} />}
           />
-          <Route path="/show/:id" element={<ShowDetails />} />
+          <Route path="/show/:id" element={<ShowDetails />}/>
         </Routes>
       </div>
     </Router>
