@@ -41,3 +41,13 @@ TVMaze Explorer is a React-based web application that allows users to search, ex
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/tvmaze-explorer.git
 cd tvmaze-explorer
+
+## 2️⃣ Install Dependencies
+npm install
+
+## 3️⃣ Start the App
+npm start
+
+The app will run at http://localhost:3000/ 🚀
+
+
