@@ -18,6 +18,7 @@ const FavoriteList = ({ favorites, onToggleFavorite }) => {
         ))
       )}
        <GoHomeButton /> 
+       
     </div>
   );
 };
